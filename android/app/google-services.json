@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1001964992668",
+    "project_id": "plannettips",
+    "storage_bucket": "plannettips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001964992668:android:86bcc364b9d84e6899d559",
+        "android_client_info": {
+          "package_name": "com.planettips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001964992668-s31e10uthb5e1efbbfonja48dqqid87k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlwBsDuPOPATKj_48COiVoOf2pEiqROk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001964992668-s31e10uthb5e1efbbfonja48dqqid87k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001964992668-qbacvqtokhprve60pt1bb68pk5bmu1gd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
